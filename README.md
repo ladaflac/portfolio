@@ -6,6 +6,4 @@ Ideas:
 - BDD scenarios 
 - Cyber-dojo 
 - learning resources 
-
-
-
+- Jenkins
